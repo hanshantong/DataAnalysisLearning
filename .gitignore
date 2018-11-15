@@ -114,4 +114,6 @@ venv.bak/
 *.txt
 *.xls
 *.xlsx
+*.zip
+*.xml
 
