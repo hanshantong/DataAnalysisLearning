@@ -102,3 +102,20 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#hanshantong add
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.csv
+*.txt
+*.xls
+*.xlsx
+*.zip
+*.xml
+data-USstates-master/
+
+
