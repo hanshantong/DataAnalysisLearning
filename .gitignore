@@ -116,4 +116,6 @@ venv.bak/
 *.xlsx
 *.zip
 *.xml
+data-USstates-master/
+
 
